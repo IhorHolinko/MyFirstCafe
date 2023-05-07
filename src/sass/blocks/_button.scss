@@ -1,0 +1,17 @@
+.btn {
+    height: 80px;
+    background-color: rgb(199, 27, 147);
+    border-radius: 50%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); 
+    padding: 12px 25px;
+    margin-top: 250px;
+    margin-left: -130px;
+    &__mail {
+        background-color: rgb(199, 27, 147);
+        height: 40px;
+        border-radius: none;
+        margin-top: 0;
+        margin-left: 0;
+    }
+}
+
